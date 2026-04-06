@@ -38,4 +38,5 @@ as
     end;
     $$;
 
+CALL kha2.check_stock(6,11);
 CALL kha2.check_stock(6,15);
